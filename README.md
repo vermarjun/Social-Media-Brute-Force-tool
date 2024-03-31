@@ -1,5 +1,5 @@
 # Social-Media-Brute-Force-tool
-Made this tool to play with playwright, learn about proxies and how buissiness like insta keep them safe from brute force attacks.
+Made this tool to play with playwright, learn about proxies and how business like insta keep them safe from brute force attacks.
 
 It is technically not possible to brute force insta accounts by trying large number of random passwords, but i recently came across a password list (From a data breach) of real Indian users and realised that still a large percentage of internet users in India have very weak passwords such as theirname@123, 12345678 or phonenumbers etc, hence i wanted to generate a user specific password list of 60-100 passwords which are not completely random but real world passwords (I created a password list after analyzing several data breach documents) optimised for our specific victim thereby increasing our chances of successfull bruteforce attack!
 
